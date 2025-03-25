@@ -27,18 +27,11 @@
 <br />
 <div align="center">
 
-<h3 align="center">WebServ</h3>
+<h3 align="center">Transcendence</h3>
 
   <p align="center">
      A multiplayer Pong Game in Python and Javascript, for Ecole 42 Paris.
-    <br />
-    <a href="https://github.com/qgiraux/WebServ"><strong>Explore the docs »</strong></a>
-    <br />
-    ·
-    <a href="https://github.com/qgiraux/WebServ/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/qgiraux/WebServ/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+    </p>
 </div>
 
 
@@ -60,12 +53,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -101,7 +88,9 @@ For more information, please check the <a href="https://github.com/qgiraux/Trans
 <!-- GETTING STARTED -->
 ## Getting Started
 
+### prequisites
 * You must have Docker installed on your system
+### Installation
 * clone the repository in your desired folder
 * in console, use the commande make to start the project
 * In the browser, connect to https://localhost:8000
@@ -132,7 +121,9 @@ For more information, please check the <a href="https://github.com/qgiraux/Trans
 [C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [C++-url]: https://isocpp.org/
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Javascript]: https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white
 [Python-url]: https://www.python.org/
+[Javascript-url]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 [PHP]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [PHP-url]: https://www.php.net/
 
