@@ -30,7 +30,7 @@
 <h3 align="center">WebServ</h3>
 
   <p align="center">
-     This is a simple http1.1 server, coded in c++98, for Ecole 42 Paris.
+     A multiplayer Pong Game in Python and Javascript, for Ecole 42 Paris.
     <br />
     <a href="https://github.com/qgiraux/WebServ"><strong>Explore the docs »</strong></a>
     <br />
